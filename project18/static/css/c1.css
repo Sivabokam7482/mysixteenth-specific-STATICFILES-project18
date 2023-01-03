@@ -1,0 +1,14 @@
+body{
+    background:blue url('https://th.bing.com/th/id/R.9fdc15c7331e4f8756e9cef5db3ba083?rik=XT6ZWhvs7ASYIw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f98UcwOd.jpg&ehk=wGjmtgFvQ%2bftVv1GxwqxN56BTSZL3DxP7SUOcay0FSY%3d&risl=&pid=ImgRaw&r=0') no-repeat;
+    margin: 60px;
+}
+h1
+{
+    background-color: black;
+    color: aliceblue;
+}
+img{
+    padding: 50px;
+    border-radius: 20px;
+    
+}
